@@ -11,6 +11,7 @@
         <module>../e3-common</module>
         <module>../e3-manager</module>
         <module>../e3-content</module>
+		<module>../e3-manager-web</module>
         <module>../e3-partal-web</module>
     </modules>
     <packaging>pom</packaging>
